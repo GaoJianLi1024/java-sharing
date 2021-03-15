@@ -3,7 +3,7 @@
 
 <p align="center">
     <a href="https://github.com/AndrewLi1024/java-sharing" target="_blank">
-        <img src="https://s.im5i.com/2021/02/20/cdroG.jpg" width="300px"/>
+        <img src="https://s.im5i.com/2021/02/20/cdroG.jpg" width="900px"/>
     </a>
 </p>
 
